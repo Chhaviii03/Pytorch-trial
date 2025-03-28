@@ -64,9 +64,4 @@ The code visualizes sample ECG signals from the training set.
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests.
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
----
-Happy coding! 😊
 
